@@ -6,7 +6,7 @@ In this repository you will find all the relevant informtion that is part of the
 
 - CodeBook.md: Detail information of the Raw Data methodology and the Clean Data Set Variables
 - run_analysis.R: Script for the transformation of the data
-- tidy.txt: Final data set with the transformation and calculations as required by the project
+- Clean Dataset.txt: Final data set with the transformation and calculations as required by the project
 - README.md: Step-by-step instructions of the data transformation
 
 ##Raw Data
